@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350033650123",
+    "project_id": "cloud-messaging-app-goteri141",
+    "storage_bucket": "cloud-messaging-app-goteri141.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350033650123:android:eccc4a5c29a49770aed64e",
+        "android_client_info": {
+          "package_name": "com.example.cloud_messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGiTDCJry2477WNbRoV2q7gyZpwuZHrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
